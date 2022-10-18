@@ -5,11 +5,11 @@ This project will include all the Statics and automation files for the main proj
 Looking at the difficulties faced by people in hospitals, we divided to take a step further, in this field.
 
 # Tech Requirement
-## Web Stack
+#### Web Stack
 React
 Node
 
-## Database
+#### Database
 Firebase
 Mongo Db
 
